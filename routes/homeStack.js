@@ -15,7 +15,7 @@ export default HomeStack = () => {
                     backgroundColor: '#eee',
                     height: 80
                 },
-                headerTintColor: 'white',
+                headerTintColor: 'black',
                 headerTitleStyle: {
                     fontWeight: 'bold'
                 }
