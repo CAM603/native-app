@@ -11,7 +11,8 @@ export default AboutStack = () => {
         <Stack.Navigator
             screenOptions={{
                 headerStyle: {
-                    backgroundColor: 'orange'
+                    backgroundColor: '#eee',
+                    height: 80
                 },
                 headerTintColor: 'white',
                 headerTitleStyle: {
